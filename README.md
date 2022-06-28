@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pradeep Sahani
 - 👀 I’m interested in Building Web and Mobile Applications
-- 🌱 I’m currently learning golang
+- 🌱 I’m currently learning nodejs
 - 📫 How to reach me drop a email to sahaniboss@gmail.com
 
 <!---
